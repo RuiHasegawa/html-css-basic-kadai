@@ -5,7 +5,7 @@ body{
 }
 
 h1{
-    font:size rem 2px; 
+    font-size: 40px;
     font-family:Josefin Sans;
     letter-spacing:1.2em;
     border-bottom:solid 3px rgb(115,115,114);
